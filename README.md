@@ -1,6 +1,6 @@
 ## Hi, I'm Dan
 
-Third-year Software Engineering student at University of Buenos Aires (UBA) 
+Third-year Software Engineering student at UBA. I balance my academic studies with practical coding experience. While I am exploring different areas to broaden my skill set, my current projects are mostly in web development.
 
 ## Main Stack
 
