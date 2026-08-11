@@ -1,6 +1,6 @@
 ## Hi, I'm Dan
 
-Third-year Software Engineering student at UBA. I balance my academic studies with practical coding experience. While I am exploring different areas to broaden my skill set, my current projects are mostly in web development.
+Third-year Software Engineering student at UBA. I balance my academic studies with my own coding projects. While I am exploring different areas to broaden my skill set, my current projects are mostly in web development.
 
 ## Main Stack
 
@@ -8,6 +8,7 @@ Third-year Software Engineering student at UBA. I balance my academic studies wi
 - **Tools:** Docker, PostgreSQL, Git 
 
 ## Currently working on:
+
 - **Cultura Viva:** Building a full-stack web application utilizing Node.js, PostgreSQL, and Docker.
 - **De Todo Un Poco:** Developing a dynamic web catalog and management system for a local business.
 
