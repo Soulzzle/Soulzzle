@@ -1,6 +1,6 @@
 ## Hi, I'm Dan
 
-Third-year Software Engineering student at UBA. I balance my academic studies with my own coding projects. While I am exploring different areas to broaden my skill set, my current projects are mostly in web development.
+Third-year Software Engineering student at UBA. Currently exploring different areas to improve my skill set while i keep studying.
 
 ## Main Stack
 
